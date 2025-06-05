@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 if you like what I do, maybe consider buying me a book 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/viannaeuphoria" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/viannaeuphoria" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150"></a>
