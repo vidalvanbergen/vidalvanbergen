@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vidalvanbergen&style=flat-round&color=blue" alt="Profile Views" />
+  <a href="https://github.com/vidalvanbergen?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=$.public_repos&url=https://api.github.com/users/vidalvanbergen&style=flat-round&color=blue" alt="Repositories" /></a>
   <img src="https://img.shields.io/github/followers/vidalvanbergen?label=Followers&style=flat-round&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/vidalvanbergen?style=flat-round&color=blue" alt="GitHub User's stars" />
 </p>
