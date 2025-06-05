@@ -22,11 +22,13 @@
 </p>
 
 <p align="center">
-  If you like what I do, maybe consider buying me a book! 📚
+  If you like what I do and want to give some support, maybe consider donating to my books fund! 📚
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/viannaeuphoria" target="_blank"><img src="Images/coffee-buymeabook.png" alt="Buy me a Book" height="36"></a> <a href='https://ko-fi.com/viannaeuphoria' target='_blank'><img src='Images/kofi-buymeabook.png' border='0' alt='Buy me a Book at ko-fi.com' height='36'/></a>
+  <a href="https://www.buymeacoffee.com/viannaeuphoria" target="_blank"><img src="Images/coffee-buymeabook.png" alt="Buy me a Book at Buy me a coffee" height="36"></a>
+  <a href='https://ko-fi.com/viannaeuphoria' target='_blank'><img src='Images/kofi-buymeabook.png' alt='Buy me a Book at ko-fi.com' height='36'/></a>
+  <a href='https://paypal.me/VidalvanBergen' target='_blank'><img src='Images/paypal-buymeabook.png' alt='Buy me a Book at Paypal' height='36'/></a>
 </p>
 
 ## 🛠️ Projects I'm Working On
