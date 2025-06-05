@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Vianna (She/Her) 👋
+
+I'm a front-end and software developer from the 🇳🇱 Netherlands, I'm currently working on a [Compendium Editor](https://github.com/vidalvanbergen/CompendiumEditor) app for use with [FightClub5eXML](https://github.com/vidalvanbergen/FightClub5eXML).
 
 <!--
 **vidalvanbergen/vidalvanbergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-if you like what I do, maybe consider buying me a book 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/viannaeuphoria" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150"></a>
+
+
+If you like what I do, maybe consider buying me a book! 📚
+
+<a href="https://www.buymeacoffee.com/viannaeuphoria" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150"></a> <a href='https://ko-fi.com/viannaeuphoria' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Book at ko-fi.com' /></a>
