@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+if you like what I do, maybe consider buying me a book 🥺👉👈
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="viannaeuphoria" data-color="#ff2571" data-emoji="📖" data-font="Cookie" data-text="Buy me a Book" data-outline-color="#000000" data-font-color="#FFFFFF" data-coffee-color="#FFDD00" ></script>
