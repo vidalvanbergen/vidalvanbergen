@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  If you like what I do and want to give some support, maybe consider donating to my books fund! 📚
+  If you like what I do and want to give some support, consider donating to my books fund! 📚
 </p>
 
 <p align="center">
