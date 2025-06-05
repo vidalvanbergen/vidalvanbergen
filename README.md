@@ -18,7 +18,7 @@
 
 
 <p>
-  I'm a front-end and software developer from the 🇳🇱 Netherlands who loves building tools to help make common tasks easier with user-friendly UIs. I love open-source, fantasy storytelling, and working with data just a little bit easier and more accessible.
+  I'm a front-end and software developer from the 🇳🇱 Netherlands who loves building tools to help make repetitive tasks easier with user-friendly UIs. I love open-source, fantasy storytelling, and working with data just a little bit easier and more accessible.
 </p>
 
 <p align="center">
