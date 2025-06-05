@@ -49,3 +49,14 @@ A companion app for Fight Club 5e and Game Master 5th Edition to more easily cre
 ## 📫 Let's Connect
 
 If you're into fantasy, worldbuilding, or building D&D tools, feel free to reach out or contribute to one of my projects!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vidalvanbergen&show_icons=true&theme=radical&hide=contribs&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalvanbergen&layout=compact&theme=radical" />
+</p>
+
+## 🧁 Fun Facts
+
+- Once built a D&D compendium editor because I refuse to wrestle with XML again.
+- I write fantasy campaign notes like a novelist.
+- If I were a spell, I'd be *Glyph of Warding*.
