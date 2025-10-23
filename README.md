@@ -4,19 +4,22 @@
   Code-Weaver | Toolsmith | Fantasy & Data enthusiast 🪄📊
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-hotpink?style=flat-round" alt="She/Her">
-  <img src="https://img.shields.io/badge/Queer%20Dev-%F0%9F%8C%88-white" alt="Identity" />
-  <img src="https://img.shields.io/badge/Trans%20Rights-Human%20Rights-5bcefa" alt="Trans Rights" />
-</p>
+<div align="center">
+  <kbd style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Pronouns-She%2FHer-hotpink?style=flat-round" alt="She/Her">
+    <img src="https://img.shields.io/badge/Queer%20Dev-%F0%9F%8C%88-white" alt="Identity" />
+    <img src="https://img.shields.io/badge/Trans%20Rights-Human%20Rights-5bcefa" alt="Trans Rights" />
+  </kbd>
+</div>
 
-<p align="center">
-  <a href="https://github.com/vidalvanbergen?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=$.public_repos&url=https://api.github.com/users/vidalvanbergen&style=flat-round&color=blue" alt="Repositories" /></a>
-  <img src="https://img.shields.io/github/followers/vidalvanbergen?label=Followers&style=flat-round&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/vidalvanbergen?style=flat-round&color=blue" alt="GitHub User's stars" />
-</p>
-
-
+<div align="center">
+  <kbd style="display: inline-block;">
+    <a href="https://github.com/vidalvanbergen?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=$.public_repos&url=https://api.github.com/users/vidalvanbergen&style=flat-round&color=blue" alt="Repositories" /></a>
+    <img src="https://img.shields.io/github/followers/vidalvanbergen?label=Followers&style=flat-round&color=blue" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/vidalvanbergen?style=flat-round&color=blue" alt="GitHub User's stars" />
+  </kbd>
+</div>
+<br/>
 <p>
   I'm a front-end and software developer from the 🇳🇱 Netherlands who loves building tools to help make repetitive tasks easier with user-friendly UIs. I love open-source, fantasy storytelling, and working with data just a little bit easier and more accessible.
 </p>
