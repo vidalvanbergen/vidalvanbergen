@@ -58,8 +58,6 @@ If you're into fantasy, worldbuilding, or building D&D tools, feel free to reach
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalvanbergen&layout=compact&theme=radical" />
 </p>
 
-## 🧁 Fun Facts
+## 🧁 Fun Fact
 
-- Once built a D&D compendium editor because I refuse to wrestle with XML again.
-- I write fantasy campaign notes like a novelist.
-- If I were a spell, I'd be *Glyph of Warding*.
+- Once built a D&D compendium editor because I was too lazy to continue writing XML by hand.
