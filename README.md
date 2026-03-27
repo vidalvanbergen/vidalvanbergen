@@ -40,14 +40,7 @@
 Creating XML files of all D&D sources compatible with Fight Club 5e and Game Master 5e apps for iOS and Android.
 
 ### 📚 [Compendium Editor](https://github.com/vidalvanbergen/CompendiumEditor)
-A companion app for Fight Club 5e and Game Master 5th Edition to more easily create and edit XML files and compile them into complete compendiums ready for import.
-
-> ✍️ Easy adding and editing content  
-> 🔄 Create Fight Club ready XML  
-> 🧰 Lightweight, focused, and DM-friendly  
-> 📱 Built for homebrewers and digital adventurers
-
-
+A companion app for Fight Club 5e, Game Master 5th Edition, Character Craft 5.5e, and other apps that make use of the FightClub5eXML data structure to more easily create and edit XML files without needing to know how to write XML, and compile them into complete compendiums ready for import!
 
 ## 📫 Let's Connect
 
